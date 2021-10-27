@@ -2,6 +2,7 @@
 Reffered to the logic and devised my own from that for this game.
 
 The game tests your memory.
+
 **Procedure:
 Step 1:** Press any key to start
 
